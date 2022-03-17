@@ -1,0 +1,42 @@
+h1{/*код с группированием*/
+bacground:red;color:white;
+} 
+h2{/*код с группированием*/
+bacground:red;
+color:white;
+} 
+table+p{margin-top:2,5em.}
+h1{margin-top:2,10em.}
+
+
+.red{
+bacground:red;
+} 
+#red-button{/*код с группированием*/
+bacground:red;
+color:white;
+}
+h1, h2, #red-button{
+bacground:red;
+} 
+p. urgent{color:red} /. exmaple{bacground:olive;} 
+.note.caution{bacground:yellow;}
+p.em:only-of-type{font-weight:bold;} 
+section article:only-of-type{margin:2em.6 6 em.}
+a:focus{outline:1px dotted red;} 
+input:focus{bacground:yellow;} 
+a"s"{href:before {content:"|link|"} 
+<`animation-name`>||<`animation-duration`>
+<`animation-timing-function`>
+<`animation-iteration-count`>||<'animation-direction`>
+aside{border-image-outset:2;}
+div#pow{border-image-ourset:12 19 10 6;}
+<number>{bacground}
+.s1{2,6}
+.s2{4,8}
+.s4{12,16}
+<`border-witht`>|| <`border-style`>
+u1 {list-style:squre url{right(22)
+u2{list-style:squre url{right(23)
+u3{list-style:url{right(24)
+u4{
